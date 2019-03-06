@@ -1,0 +1,46 @@
+{
+	"profile":{
+		"img":"jack jack.jpg",
+		"name":"manu",
+		"roll":"1255",
+		"place":"Guntur",
+		"des":"student"
+	},
+	"career":{
+		"info":"i seek a position where i can explore my talents for the benefits of the organization"
+	},
+	"education":[
+		{
+		   "sno":"1",
+           "degree":"b.tech",
+           "institute":"vignan",
+           "per":"90%",
+           "YOP":"2021"
+		},
+		{
+		   "sno":"2",
+           "degree":"intermediate",
+           "institute":"XYZ college",
+           "per":"90%",
+           "YOP":"2017"
+		},
+		{
+		  "sno":"3",
+          "degree":"SSC",
+          "institute":"ABC school",
+          "per":"90%",
+          "YOP":"2015"
+		}
+	],
+	"languages":[
+		{
+			"info":"english"
+		},
+		{
+			"info":"telugu"
+		},
+		{
+			"info":"hindi"
+		}
+	]
+}
